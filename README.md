@@ -190,6 +190,4 @@ No `.env` file is required for local development. For production, override these
 
 ---
 
-## License
 
-MIT
